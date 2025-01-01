@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nice_children_hospital/webUi.dart';
+import 'package:nice_children_hospital/web.dart';
 
 void main() {
   runApp(const MyApp());
