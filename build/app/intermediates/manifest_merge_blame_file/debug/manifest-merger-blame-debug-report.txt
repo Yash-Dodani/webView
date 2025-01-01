@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\debug\AndroidManifest.xml:6:5-66
-15-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\debug\AndroidManifest.xml:6:22-64
+15-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\debug\AndroidManifest.xml:6:5-66
+15-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\debug\AndroidManifest.xml:6:22-64
 16    <!--
 17     Required to query activities that can process text, see:
 18         https://developer.android.com/training/package-visibility and
@@ -23,22 +23,22 @@
 21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 22    -->
 23    <queries>
-23-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:39:5-44:15
+23-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:39:5-44:15
 24        <intent>
-24-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:40:9-43:18
+24-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:40:9-43:18
 25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:41:13-72
-25-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:41:21-70
+25-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:41:13-72
+25-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:41:21-70
 26
 27            <data android:mimeType="text/plain" />
-27-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:42:13-50
-27-->C:\Users\Yash\Desktop\Apex\nice_children_hospital\android\app\src\main\AndroidManifest.xml:42:19-48
+27-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:42:13-50
+27-->C:\Users\Yash\Desktop\nice_children_hospital\android\app\src\main\AndroidManifest.xml:42:19-48
 28        </intent>
 29        <intent>
-29-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+29-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
 30            <action android:name="android.support.customtabs.action.CustomTabsService" />
-30-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-90
-30-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-87
+30-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-90
+30-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-87
 31        </intent> <!-- Needs to be explicitly declared on Android R+ -->
 32        <package android:name="com.google.android.apps.maps" />
 32-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Yash\.gradle\caches\transforms-3\1b7e6503cbc679789b0e1529278741c6\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
@@ -109,76 +109,76 @@
 85            android:value="2" />
 86
 87        <activity
-87-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:47
+87-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:47
 88            android:name="com.pichillilorenzo.flutter_inappwebview_android.in_app_browser.InAppBrowserActivity"
-88-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-112
+88-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-112
 89            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
-89-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-137
+89-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-137
 90            android:exported="false"
-90-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+90-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
 91            android:theme="@style/AppTheme" />
-91-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-44
+91-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-44
 92        <activity
-92-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-22:55
+92-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-22:55
 93            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivity"
-93-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-120
+93-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-120
 94            android:exported="false"
-94-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+94-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
 95            android:theme="@style/ThemeTransparent" />
-95-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-52
+95-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-52
 96        <activity
-96-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-26:55
+96-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-26:55
 97            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivity"
-97-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-114
+97-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-114
 98            android:exported="false"
-98-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-37
+98-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-37
 99            android:theme="@style/ThemeTransparent" />
-99-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-52
+99-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-52
 100        <activity
-100-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-31:55
+100-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-31:55
 101            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
-101-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-134
+101-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-134
 102            android:exported="false"
-102-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-37
+102-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-37
 103            android:launchMode="singleInstance"
-103-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-48
+103-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-48
 104            android:theme="@style/ThemeTransparent" />
-104-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-52
+104-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-52
 105        <activity
-105-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-36:55
+105-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-36:55
 106            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivitySingleInstance"
-106-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-128
+106-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-128
 107            android:exported="false"
-107-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-37
+107-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-37
 108            android:launchMode="singleInstance"
-108-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-48
+108-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-48
 109            android:theme="@style/ThemeTransparent" />
-109-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-52
+109-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-52
 110
 111        <receiver
-111-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-41:40
+111-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-41:40
 112            android:name="com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ActionBroadcastReceiver"
-112-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-119
+112-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-119
 113            android:enabled="true"
-113-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-35
+113-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-35
 114            android:exported="false" />
-114-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-37
+114-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-37
 115
 116        <meta-data
-116-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
+116-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
 117            android:name="io.flutter.embedded_views_preview"
-117-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-61
+117-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-61
 118            android:value="true" />
-118-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
+118-->[:flutter_inappwebview_android] C:\Users\Yash\Desktop\nice_children_hospital\build\flutter_inappwebview_android\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
 119
 120        <activity
-120-->[:url_launcher_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
+120-->[:url_launcher_android] C:\Users\Yash\Desktop\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
 121            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-121-->[:url_launcher_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
+121-->[:url_launcher_android] C:\Users\Yash\Desktop\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-74
 122            android:exported="false"
-122-->[:url_launcher_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
+122-->[:url_launcher_android] C:\Users\Yash\Desktop\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
 123            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-123-->[:url_launcher_android] C:\Users\Yash\Desktop\Apex\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+123-->[:url_launcher_android] C:\Users\Yash\Desktop\nice_children_hospital\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
 124
 125        <uses-library
 125-->[androidx.window:window:1.2.0] C:\Users\Yash\.gradle\caches\transforms-3\b61292485483c7499e83c4f5c6f9bd1a\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
